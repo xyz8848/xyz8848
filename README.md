@@ -23,6 +23,3 @@
 
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyz8848)](https://github.com/xyz8848)
-
-## Donate :moneybag:
-- 爱发电: [https://afdian.net/a/xyz8848](https://afdian.net/a/xyz8848)
